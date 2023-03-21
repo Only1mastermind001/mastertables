@@ -1,0 +1,17 @@
+table{
+    background-color: rgb(18, 217, 97);
+    width: 100%;
+    border: 2px solid white;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+body{
+    background-color: rgb(13, 13, 12);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline 3px rgb(18, 217, 97);
+    color: white;
+}

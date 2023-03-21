@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    font-family: arial black;
+    font-size: x-large;
+}
+
+table, td, th {
+    border: 2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td{
+    height: 50px;
+    vertical-align: bottom;
+}

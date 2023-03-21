@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px  solid rgb(11, 11, 11);
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 40%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: arial black;
+}
+th{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+    background-color: #108157;
+    color: black;
+    text-align: center;
+    font-family: arial black;
+}
+h2{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 3rem;
+    background: #108157;
+    color: whitesmoke;
+}
+
+@media (max-width: 600px){
+    table
+    {
+        float: none;
+        text-align: left;
+        width: 150%;
+        align-content: left;
+    }
+}

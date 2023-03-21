@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+    font-family: arial black;
+    font-weight: 400;
+    font-size: 300;
+    color: black;
+}
+
+table, td, th {
+    border: 2px solid rgb(176, 15, 15);
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+    text-align: center;
+}

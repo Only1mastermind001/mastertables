@@ -1,0 +1,27 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+}
+
+tr:hover{
+    background-color: coral;
+}
+
+@media (max-width: 768px){
+    table
+    th 
+    td
+    tr:hover
+    {
+        float: none;
+        text-align: left;
+        width: 100%;
+        align-content: left;
+    }
+}

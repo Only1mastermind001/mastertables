@@ -1,0 +1,15 @@
+body{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+
+}
+
+table, td, th {
+    border: 1px solid;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
